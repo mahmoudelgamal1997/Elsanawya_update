@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example2017.android.elsanawya_new.chemist"
+    android:background="@drawable/f">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:text="ــ بص يا معلم الكميا دي ماده بيتجاب فيها 60  وخسارة تضيع اي درجه فيها بس هي عايزة حفظ شويه لكن والله سهله وبرده عايزة تتذاكر من الاول.
+        \n\n
+        ــ هي عباره عن جزأين ، كميا عاديه وكميا عضويه .
+        \n\n
+        ــ في الكميا العاديه هتلاقي مسائل وحفظ حاجه بسيطه ممكن يكون عندك معادلات لكن من التكرار والحفظ هتبقي تمام .
+        \n\n
+        ــ في الكميا العضويه دي بقي عايزة حفظ كويس عباره عن  حفظ ، في الاول يمكن تلاقيها صبعه لكن بعد كده هتعرف انها تاااافهه .
+        \n\n
+        ــ التكرار بيلين الحديد واافتكر ان اللي قفلوها مش احسن منك ولا بيحفظوا احسن منك .
+        \n\n
+        ــ موضوع انا مبعرفش احفظ دا شيلو من دماغك واحفظ عشان تعدي .
+        \n\n
+        ــ دليل التقويم اللي بينزل اخر السنه  دا حلو جدا في الماده دي بالذات ابقي حله .
+        \n\n
+        ــ لو لقيت نفسك واقع في ماده متخفش تقربلها او تذاكرها او تبعد عنها بالعكس دا انت تتحدي نفسك  وتذاكرها وهتلاقيها سهله  والله .
+        \n\n
+        ــ وفي ورقه امتحانك خليك منظم وكاتب الاسئله في مكانها عشان متخليش للمصحح حجه وتريحه وهو بيصححلك .
+        \n\n"
+        android:id="@+id/textView5"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
+</ScrollView>

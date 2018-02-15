@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example2017.android.elsanawya_new">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/elsana"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Math" />
+        <activity android:name=".Advices" />
+        <activity android:name=".FirstMath" />
+        <activity android:name=".Arabic" />
+        <activity android:name=".Sub_First_Step" />
+        <activity android:name=".Math1" />
+        <activity android:name=".firstphy" />
+        <activity android:name=".firstarabic" />
+        <activity android:name=".chemist" />
+        <activity android:name=".german" />
+        <activity android:name=".science" />
+        <activity android:name=".history" />
+        <activity android:name=".firstScience" />
+        <activity android:name=".biology" />
+        <activity android:name=".geology" />
+        <activity android:name=".Theology" />
+        <activity android:name=".SubHistory" />
+        <activity android:name=".geography" />
+        <activity android:name=".flsfa"></activity>
+
+
+    </application>
+
+
+
+</manifest>

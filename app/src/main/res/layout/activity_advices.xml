@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example2017.android.elsanawya_new.Advices"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/f">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+   >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:text="ــ لازم علاقتك تبقي حلوه بربنا عشان يكرمنا سواء في السنه دي  وحياتك كلها بشكل عام .\n
+        		ــ الثانويه العامه مش عفريت هنخاف  منه زي العيال الصغيره .الموضوع اسهل مما تتخيلو .الفكره بس انها مهمه حبتين مش اكتر .\n
+        		ــ بص يسطا  عشان تبقي عارف ان كده كده السنه هتعدي سواء انت ذاكرت مذاكرتش هتعدي  يبقي ليه بقي  تعدي عليك وحش  وفي نفس الوقت
+
+هتعدي علي ناس تانيه احلي لحظه في حياتها
+\n\n
+ــ اسمعها مني( متفرحش/ متفرحيش) حد فيك  وارفع راس اهلك مش هيجرا حاجه لما تفرحهم مرة واحده  .
+\n\n
+ــ فرحه الثانويه مفيش احلي منها لمده يجي اربع خمس سنين قدام  . انا جاي من قدام اهو وبقولك الكلام  دا ومجربه .
+\n\n
+ــ ابوك وامك مش عايزين حاجه غير انك تبقي في مكان كويس فمتضايقش شويه لو لقتهم ضاغطين عليك  اعذرهم مانت ابنهم برده وقلقانين عليك .
+\n\n
+ــ  صدقني  الكليه اسهل بكتير فشخ من ايام الثانويه  متصدقش اللي يقولك عكس كده دا مجرد هزار . الكليه راحه  مقارنه بالثانويه بكتير .
+\n\n
+ــ مش هيجرا حاجه لو ذاكرت والله   مش هقولك ياعم موت نفسك طول اليوم بس علي الاقل تابع كده .
+\n\n
+ــ متفتكرش انك لما بتذاكر في السنه دي كتير ان هيفوتك كتير وان اصحابك عايشين وانت لا . لسه قدامكم كتير اوووي متقلقش مفاتكش حاجه .
+\n\n
+ــ ذاكر عشان يوم النتيجه صعب عليك وعلي اهلك . متخليش ابوك وامك خايفين يخرجوا  لاحسن الناس تاكل وشهم او تسالهم علي ساعتك .
+\n\n
+ــ اصحابك دول عشره سنين واحسن ناس هتقابلهم فبلاش سنه تزعلكم من بعض وهتفهم كلامي في اخر السنه .
+\n\n
+ــ احقر شخصيتين في الثانويه الخبيث والمتكبر ابعد عنهم وحاول تتجنب الصفتين دول .
+\n\n
+ــ ذاكر ولما تزهق ابقي اخرج ياعم مرة ولا  مرتين في الاسبوع حسب اللي وراك .
+\n
+"
+
+
+
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+
+</RelativeLayout>
+</ScrollView>

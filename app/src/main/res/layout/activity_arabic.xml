@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example2017.android.elsanawya_new.Arabic"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/f">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+  >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ــ نيجي بقي للعربي ابو  80  درجه واللي الناس كلها سايباه  علي اساس انهم شيوخ في اللغه العربيه وغالبا نفس الناس دي اللي بيكتبوا علي الفيس معن وشكرن  بالنون .
+        \n\n
+        ــ درجه في العربيه شبه درجه في الرياضه كلها درجات فمتذاكرش ماده علي حساب ماده كله يتذاكر .
+        \n\n
+        ــ العربي سهل بس لازم يتاخد واحده واحده كده  ويتحفظ  كويس ويتراجع خاصه الادب لازم يتذاكر كل يوم او يومين متعديش اسبوع الا لما تراجه بالورقه والقلم
+        \n\n
+        ــ حاول تدرب تكتب كام تعبير كده عشان متجيش تكتب اول تعبير في الامتحان مش هتكون حلوه خالص .
+        \n\n
+        ــ اهتم بكل الفروع في العربي  نحو وبلاغه واياك تنتحر وتسيب العربي لاخر شهر زي ما حد ممكن يضحك عليه ويفهمك كده .
+        \n\n
+        ــ نصيحه مهمه اووي اسمعها مني وخلي بالك منها وهي ان اياك اياك تتاثر بكلام حد من اصحابك حتي اقرب الناس ليك مش تخوين ولا حاجه بس خلينا نحسبها صح كلامه هيكون حاجه من الاتنين ياما كلام ان مبيذاكرش او بيذاكر  لو قالك انه مبيذاكرش فانت ممكن تعمل شبه وتقارن نفسك بمستوي اقل منك وتفتكر نفسك احمد زويل ودا مش صح او لو قالك انه بيذاكر فانت ممكن تتعقد. انت تاخد كلامه تحفيز مش اكتر .
+        \n\n
+        ــ وارجع اقولك تاني ركز تعب سنه ترتاح طول عمرك ومتصدق كلام اللي يقولك محصله بضعها وكلام البؤس اللي علي الفيس بوك دا .
+        \n\n
+        ــ حاول علي قد ما تقدر تقلل وقت الفيس ونصيحه مني هاتلك موبايل نويكا 1110  كل المهندسين شالو الموبايل دا في الثانويه .
+        \n\n
+        ــ حاول اما تزهق تقوم تتمشي او تتكلم مع والدتك تقوم تلعب شويه  رياضه لان اخر السنه الكرش هيكون كبر اوي .
+        \n\n
+        ــ حل علي النحو لو انت بتكره النحو حل قطع نحو كتير هتلاقي الموضوع اسهل مما تتخيل والله  واتاكد ان الناس اللي جابت مش احسن منك ولا اذكي منك .
+        \n\n
+           وخليك فاكر ان لكل مجتهد نصيب
+           \n\n"
+
+
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
+</ScrollView>

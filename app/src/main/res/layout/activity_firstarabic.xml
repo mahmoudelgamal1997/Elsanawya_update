@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example2017.android.elsanawya.firstarabic"
+    android:background="@drawable/f">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="الانجليزي ماده مهمه وحلوه  بس مش لكل الناس حلوه  لان في ناس بتكرها اوي فاحنا هنقسملك نصايحنا علي حسب مستواك
+        \n\n
+        ــ اول حاجه لو انت مستواك ضايع في الانجليزي ومتعرفش حرف فيه . احب اقولك انك تقدر تعمل المستحيل وتجيب درجه محترمه فيه
+        \n\n
+        ــ الانجليزي اهم حاجه فيه حفظ الكلمات يعني هنفترض انك متعرف ولا كلمه في الانجليزي تعالي ياعم اسمع الكلام دا ونفذن وبلاش كسل.
+        \n\n
+        ــ لو جبت شويه كلمات كتير كده من اي مدرس ولا اي كتاب وقعدت تحفظ فيهم كل يوم خمس كلمات بس كل يوم وكمان تراجع علي اللي قبلهم هتلاقي نفسك بقي معاك 500 كلمه بعد 100 يوم من السنه والسنه يجي 300 يوم دراسه يعني لو كملت كده هتحفظ يجي 1000 كلمه يعني مستحيل يجيلك كلمه متعرفهاش .
+        \n\n
+        ــ هتلاقي مستواك بيتظبط شويه بشويه وحل امتحانات وشوف اللي بيقف قدامك واسال فيه هتلاقي نفسك بعد كام امتحان مستواك بعد ممتاز .
+        \n\n
+        ــ لو انت مستواك حلو او متوسط  احفظ كل يوم برده خمس كلمات ولا حاجه بس بانتظام هتلاقي نفسك حفظت كميه كبيره جدا من الكلمات وحاول تفهم القواعد كويس وتحل عليها كتير اوي عشان لو تلاعب بيك كده ولا كده .
+        \n\n
+        ــ عادي لو لقيت نفسك بتنسي الكلمات اللي انت حفظتها لو راجعت عليها كذا  مرة او بالتكرار هتلاقي نفسك حفظتها صم .
+        \n\n
+        ــ بالنسبه لموضوع التعبير حاول كل اسبوع تكتب واحد وتخلي المدرس يصححه  ، في الاول هتلاقي عندك اخطاء كتير بعد كده هتبدا تقل تدريجي لحد ما هتكتب موضوع لوحدك وبسهوله كبيرة  وانا مجرب الموضوع دا .
+        \n\n
+        ــ القصه حاول تقراها كتير لان فيها مقولات كتير مش مهم كل يوم قبل ما تنام اقعد اقراها ونصيحه مني حاول  تقرا النص الاول وبعدين تبقي تحفظ الاسئله مش العكس لانك لو فاهم هتعرف تجاوب علي اي سؤال .
+        \n\n
+        "
+        android:id="@+id/textView4"
+        android:textSize="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example2017.android.elsanawya_new.science"
+    android:background="@drawable/f">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="عربي"
+        android:id="@+id/button7"
+        android:onClick="buarab"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/button25"
+        android:layout_toEndOf="@+id/button25"
+        android:background="@drawable/animation"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/animation"
+        android:text="احياء"
+        android:textSize="18dp"
+        android:id="@+id/button20"
+        android:onClick="bubio"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/button25"
+        android:layout_toStartOf="@+id/button25" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="انجليزي"
+        android:textSize="18dp"
+        android:id="@+id/button21"
+        android:layout_marginTop="55dp"
+        android:onClick="bueng"
+        android:layout_below="@+id/button7"
+        android:layout_alignLeft="@+id/button7"
+        android:layout_alignStart="@+id/button7"
+        android:background="@drawable/animation"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="جيلوجيا"
+        android:textSize="18dp"
+        android:id="@+id/button22"
+        android:onClick="bigelo"
+        android:layout_alignTop="@+id/button21"
+        android:layout_alignLeft="@+id/button20"
+        android:layout_alignStart="@+id/button20"
+        android:background="@drawable/animation"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="فزياء"
+        android:textSize="18dp"
+        android:id="@+id/button23"
+        android:onClick="buphy"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/button21"
+        android:layout_alignStart="@+id/button21"
+        android:background="@drawable/animation"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="كمياء"
+        android:textSize="18dp"
+        android:id="@+id/button24"
+        android:onClick="buchem"
+        android:layout_above="@+id/button25"
+        android:layout_toLeftOf="@+id/button25"
+        android:layout_toStartOf="@+id/button25"
+        android:background="@drawable/animation"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="لغه اجنبيه ثانيه"
+        android:textSize="18dp"
+        android:id="@+id/button25"
+        android:onClick="bugerman"
+        android:layout_below="@+id/button23"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp"
+        android:background="@drawable/animation"
+        />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="48dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>

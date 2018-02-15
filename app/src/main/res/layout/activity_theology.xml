@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example2017.android.elsanawya_new.Theology"
+    android:background="@drawable/f">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ــ احفظ العناصر الأساسية التي يتضمنها الموضوع وسمعها، ثم احفظ بعد ذلك تفاصيل كل عنصر وسمعها لنفسك أيضا.
+        \n\nــ دايما خلي المذاكرة بالورقه والقلم عشان المواد الادبيه معروفه انها بتتنسي فمتقلقش لو نسيت وتفتكر انك انت لوحدك اللي كده .
+        \n\nــ اما تحفظ الدرس مره مش زي اما تحفظه عشر مرات كيد هتفرق .
+        \n\nــ في علم النفس ابعد عن الملخصات وغنيلها يعني بلاش احسن لانها ماده  بتحتوي علي معلومات وطبعا التلخيص مش هيكفيها كلها .
+        \n\nــ الماده دي حلوه وحاول تفهمها وانت بتحفظها عشان الحفظ يستمر لوقت اطول .
+        \n\nــ دايما اما بتحفظ حاجه كويس اوي بتحس انك نسيتها بس بعد فترة بتفتكرها كويس طبقا للاحصائيات اللي الغرب عملوها .
+        \n\nــ ذاكر وارفع راسك ومتخليش حد يفرح فيك .
+        \n\nــ انت قدها  والله وهتقفل الماده وهتقفل غيرها  ان شاء الله خليك واثق في نفسك .
+        "
+        android:textSize="17dp"
+        android:id="@+id/textView13"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
+</ScrollView>

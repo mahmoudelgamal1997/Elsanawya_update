@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example2017.android.elsanawya_new.geology"
+    android:background="@drawable/f">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ــ ماده حفظ الي حد ما ودرجاتها مضمونه وخلي هدفك ديما في اي ماده انك تجيب النهايه مش تنقص درجه او درجتين اللي قفلوها مش احسن منك .
+        \n\nــ الماده دي عايزه حفظ يمكن هي بتتنسي شويه لكن متزهقش وخليك راجعها باستمرار .
+        \n\nــ طبعا هتتذاكر بالورقه والقلم عشان نثبتها اكتر .
+        \n\nــ الحل من اهم الحاجات في الماده دي بالذات ،يعني تخلص الدرس وتبدا تحل عليه .
+        \n\nــ حاول بعد كل فترة كده تراجع علي القديم بحيث في اخر السنه تلاقي نفسك فاكر وميجلكش احباط .
+        \n\nــ هتقفل الماده دي عافيه عشان تدخل طب متخليش حاجه توقفك . ولو بتعاني من سوء الحفظ شوف التعليمات بتاعت الحفظ في التطبيق .
+        "
+        android:textSize="17dp"
+        android:id="@+id/textView8"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

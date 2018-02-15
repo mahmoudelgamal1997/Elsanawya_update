@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example2017.android.elsanawya_new.geography"
+    android:background="@drawable/f">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ــ تعتبر الماده دي من اكتر المواد الحفظ اللي عندك عشان كده خليها اكتر ماده بتحفظها وتراجعها كمان .
+        \n\nــ حاول اما تاخد الدرس مع المدرس تركز فيه وتروح تحفظه مش هياخد منك وقت .
+        \n\nــ متسيبش الدرس لتاني يوم وتقول هذاكر بكرة مهما كان الظروف ، ذاكر الجغرافيا في يومها هتفرق وهتوفر معاك كتير .
+        \n\nــ برده بالورقه والقلم وانت بتذاكر عشان نثبت الحفظ .
+        \n\nــ لو بتكره الماده اوعي تبعد عنها او تخاف منها بالعكس خليها اكتر ماده بذاكرها عشان تضيع الخوف .
+        \n\nــ ذاكر دي سنه وهتروح لحالها وهتوقف عليها عمرك كله فمتضيعهاش وتصدق صاحبك اللي يقولك مبذاكرش .
+        "
+        android:textSize="17dp"
+        android:id="@+id/textView11"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
